@@ -8,4 +8,10 @@ Based on AWGT, we propose a **two-stage recognition framework** that first extra
 
 ---
 
-## 📂 Repository Structure
+## 🌟 Contribution
+🚀AWGT-Benchmark: The first large-scale, multilingual, multi-granularity video dataset supporting air-writing text recognition, enabling standardized evaluation across diverse languages and writing levels.
+
+A novel two-stage framework: Decouples fingertip motion extraction from character recognition for improved modularity and robustness, with comprehensive benchmarking of STR/HTR models under air-writing settings.
+
+In-depth analysis: Reveals critical limitations of existing models in AWTR and provides insights toward more generalizable recognition approaches.
+
